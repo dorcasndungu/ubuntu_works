@@ -42,13 +42,13 @@ This is a website where people can write challenges they encounter, believing th
 
 <h3>Objective</h3>
 * Users would be provided with an intuitive interface to articulate the challenges they face, accompanied by detailed descriptions and contextual information.
-* The submission form could include fields for categorization, such as industry verticals (e.g., healthcare, education, finance) or specific problem domains (e.g., data management, automation, communication).
+* The submission form could include fields for categorization, such as industry verticals (e.g., healthcare, education, finance) or specific problem domains.
 * Submitted challenges would undergo a curation process to ensure relevance and feasibility.
 * A review system, possibly facilitated by community moderators or AI algorithms, would evaluate the merit and potential impact of each challenge.
 * Developers within the Ubuntu community would browse through curated challenges and express interest in tackling specific ones.
-* There can be integration with different platforms drive attention to popular problems and drive the development
-* Integration with perhaps the issues system on GitHub or readme will work well for trucking progress.
-* With enough drive a popular project would get its own platform on the website where is can be followed and tracked.
+* There can be integration with different platforms to drive attention to popular problems and drive the development
+* Integration with perhaps the issues system on GitHub or readme will work well for tracking progress.
+* With enough drive a popular project would get its own platform on the website where it can be followed and tracked.
 * Once developers commit to addressing a challenge, the platform could provide project management tools for task allocation, progress tracking, and communication.
 * Integration with version control systems like Git would facilitate collaborative software development.
 * Gamification elements, such as leaderboards or badges, could incentivize active participation and contribution within the platform.
@@ -56,7 +56,7 @@ This is a website where people can write challenges they encounter, believing th
 * A "best reads" for the most helpful articles and videos on a problem being tackled can be posted to help others catch up or learn
 
 <h3>Mobile Version</h3>
-<h4>Here I put in features I build that I think qualify for the mobile version</h4>
+<h4>Here I put in features I built that I think qualify for the mobile version</h4>
 
 <h3>Built With</h3>
 ![Angular](https://img.shields.io/badge/angular-%23FF0000.svg?style=for-the-badge&logo=angular&logoColor=white)
